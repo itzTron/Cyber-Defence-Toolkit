@@ -37,3 +37,4 @@ tar -xf GeoLite2-City.tar.gz
 move GeoLite2-City_*\GeoLite2-City.mmdb .
 rmdir /s /q GeoLite2-City_*
 del GeoLite2-City.tar.gz
+
